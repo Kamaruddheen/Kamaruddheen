@@ -40,7 +40,6 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <br/>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kamaruddheen&repo=attendance-report&show_owner=true&theme=dark)](https://github.com/kamaruddheen/attendance-report)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kamaruddheen&repo=cs-event&show_owner=true&theme=dark)](https://github.com/kamaruddheen/cs-event)
 
 
