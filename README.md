@@ -2,9 +2,9 @@
 
 <br/>
 
-I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming 🧑🏻‍💻. Fast learner, hard worker and team player who is proficient in an array of scripting languages. 
+How's it going? Let me tell you a bit about myself. I'm a web engineer, and I love bringing ideas to life on the internet. From the initial concept to creating the navigation, designing the layout, and coding the whole thing, I've got it covered. I'm a fast learner, so I can quickly adapt to new technologies and techniques. When it comes to work, I'm all about putting in the effort and collaborating with my team. 
 
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting ✨ online applications. Apart from that, I have been guiding my peer's and mentoring newbies into Techy world 🌏. 
+I'm proficient in various scripting languages (Python, Java, etc..) and have both design and coding skills that I'm proud of. Plus, I have this knack for taking requirements and turning them into awesome online applications. If you need someone to build a web app from the ground up, I'm your person. Let's connect and create something amazing together!
 
 <br/>
 
@@ -12,12 +12,12 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 <a src="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
 <a src="https://www.java.org/"><img src="https://img.icons8.com/?size=48&id=13679&format=png"/></a>
-<a src="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/48/000000/django.png"/></a> 
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+<a src="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/48/000000/django.png"/></a> 
 <a src="https://sass-lang.com/">&nbsp;&nbsp;<img height="35" src="https://sass-lang.com/assets/img/logos/logo.svg"/></a>
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 
