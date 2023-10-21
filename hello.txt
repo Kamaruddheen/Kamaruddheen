@@ -1,3 +1,0 @@
-This is a dev branch change.
-This is a main branch change.
-This is a feature branch
