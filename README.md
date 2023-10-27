@@ -1,4 +1,4 @@
-<img src="banner_light_border.png"/>
+<img src="static/img/banner_light_border.png"/>
 
 <br/>
 
