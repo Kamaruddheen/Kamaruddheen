@@ -1,47 +1,36 @@
 <img src="static/img/banner_light_border.png"/>
 
-<br/>
-
 How's it going? Let me tell you a bit about myself. I'm a web engineer, and I love bringing ideas to life on the internet. From the initial concept to creating the navigation, designing the layout, and coding the whole thing, I've got it covered. I'm a fast learner, so I can quickly adapt to new technologies and techniques. When it comes to work, I'm all about putting in the effort and collaborating with my team. 
 
 I'm proficient in various scripting languages (Python, Java, etc..) and have both design and coding skills that I'm proud of. Plus, I have this knack for taking requirements and turning them into awesome online applications. If you need someone to build a web app from the ground up, I'm your person. Let's connect and create something amazing together!
 
-<br/>
-
 ## Technology stack
 
-<a src="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
-<a src="https://www.java.org/"><img src="https://img.icons8.com/?size=48&id=13679&format=png"/></a>
-<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-<a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
-<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-<a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
-<a src="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/48/000000/django.png"/></a> 
-<a src="https://sass-lang.com/">&nbsp;&nbsp;<img height="35" src="https://sass-lang.com/assets/img/logos/logo.svg"/></a>
-<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
-
-<br/>
+<a href="https://www.python.org/" target="blank"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
+<a href="https://www.java.org/" target="blank"><img src="https://img.icons8.com/?size=48&id=13679&format=png"/></a>
+<a href="https://www.w3schools.com/html/" target="blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+<a href="https://www.w3schools.com/css/" target="blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a href="https://getbootstrap.com/" target="blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
+<a href="https://www.javascript.com/" target="blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+<a href="https://reactjs.org/" target="blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+<a href="https://www.djangoproject.com/" target="blank">&nbsp;<img height="45" src="https://avatars.githubusercontent.com/u/27804"/></a>
+<a href="https://jquery.com/" target="blank">&nbsp;<img height="45" src="https://avatars.githubusercontent.com/u/70142"/></a>
+<a href="https://sass-lang.com/" target="blank">&nbsp;&nbsp;<img height="35" src="https://sass-lang.com/assets/img/logos/logo.svg"/></a>
+<a href="https://github.com/" target="blank"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 
 ## Github Stats
 
-<br/>
+<a href="https://github.com/Kamaruddheen"><img src="https://github-readme-stats.vercel.app/api?username=kamaruddheen&show_icons=true&include_all_commits=true&theme=dark" width="600"></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kamaruddheen&show_icons=true&theme=dark" width="600">
+<a href="https://github.com/Kamaruddheen"><img src="https://github-readme-streak-stats.herokuapp.com?user=kamaruddheen&theme=dark" width="600"></a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kamaruddheen&theme=dark" width="600">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamaruddheen&layout=compact&theme=dark" width="300">
-
-<br/>
+<a href="https://github.com/Kamaruddheen"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamaruddheen&layout=compact&theme=dark" width="400"></a>
 
 ## Github Repos
 
-<br/>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kamaruddheen&repo=attendance-report&show_owner=true&theme=dark)](https://github.com/kamaruddheen/attendance-report)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kamaruddheen&repo=cs-event&show_owner=true&theme=dark)](https://github.com/kamaruddheen/cs-event)
-
+[![Student Attendance Management System](https://github-readme-stats.vercel.app/api/pin/?username=kamaruddheen&repo=attendance-report&show_owner=true&theme=dark)](https://github.com/kamaruddheen/attendance-report)
+[![Age Calculator](https://github-readme-stats.vercel.app/api/pin/?username=kamaruddheen&repo=age-calculator&show_owner=true&theme=dark)](https://github.com/kamaruddheen/age-calculator)
+[![Event Management](https://github-readme-stats.vercel.app/api/pin/?username=kamaruddheen&repo=cs-event&show_owner=true&theme=dark)](https://github.com/kamaruddheen/cs-event)
 
 <!--
 
